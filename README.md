@@ -1,4 +1,5 @@
 - this is the first Project i did
 - No Functionality in it 
-- I have used google fonts family & font Awesome for icons 
+- I have used google fonts family & font Awesome for icons
+-  There is a Assets folder for Images Used in it 
 - Suggestions are appreciated 
